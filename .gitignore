@@ -15,3 +15,6 @@
 
 # Generic data directory
 /data
+
+# Output file
+output.txt
