@@ -5,6 +5,13 @@ Data Downloaded from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfil
 Details regarding the dataset can be found at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
 ### The Variables
+##### Activity Variables
+ 1. WALKING
+ 2. WALKING_UPSTAIRS
+ 3. WALKING_DOWNSTAIRS
+ 4. SITTING
+ 5. STANDING
+ 6. LAYING
 
 You should create one R script called run_analysis.R that does the following.
 
